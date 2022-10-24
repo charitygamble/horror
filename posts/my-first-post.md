@@ -9,4 +9,4 @@ Welcome to The Horror Revue - a blog where I review horror books, movies, and TV
 
 Fast forward a few years, and I was watching horror flicks like Nightmare on Elm Street, Friday the 13th, and Halloween with my friends. All through my teen years, my mom would buy me horror novels while she bought herself romance novels at our local used bookstore. So my love of horror has been with me for a long time. 
 
-S﻿o now that you know a little background... welcome to the circus!
+So now that you know a little background... welcome to the circus!
