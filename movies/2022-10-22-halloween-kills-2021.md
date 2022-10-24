@@ -4,23 +4,20 @@ title: Halloween Kills - 2021
 description: Movie Review for Halloween Kills - 2021
 date: 2022-10-22T06:00:00.000Z
 ---
-<div class="movie__info">
+<section class="movie__info">
 
-<img loading="lazy" class="movie__poster" src="/static/images/movie/halloweenkills2021.webp" alt="Movie Poster for Halloween Kills - 2021" height="300" width="189" align="left">
+    <img loading="lazy" class="movie__poster" src="/static/images/movie/halloweenkills2021.webp" alt="Movie Poster for Halloween Kills 2021" width="199" height="300" align="left">
+    
+    Director: David Gordon Green<br>
+    Producers: Jamie Lee Curtis, John Carpenter, Danny McBride, David Gordon Green, Bill Block, Jason Blum, Malek Akkad,Jeanette Volturno, Couper Samuelson, Laura Altmann, Ryan Freimann<br>
+    Studios: Miramax, Universal Pictures, Blumhouse Productions, Trancas International Films, Rough House Pictures, Home Again Productions <br>
+    Source: HBOMAX<br>
+    Rating: &#9733;&#9733;&#9733;&#9733;&#9734;
+    
+    <p>The nightmare isn’t over as unstoppable killer Michael Myers escapes from Laurie Strode’s trap to continue his ritual bloodbath. Injured and taken to the hospital, Laurie fights through the pain as she inspires residents of Haddonfield, Ill., to rise up against Myers. Taking matters into their own hands, the Strode women and other survivors form a vigilante mob to hunt down Michael and end his reign of terror once and for all.</p>
+    </section>
 
-Release Year: 2021<br>
-
-Director: David Gordon Green<br>
-
-<p></p>
-
-<p>Surviving victims of Michael Myers form a vigilante mob and vow to end his reign of terror after they discover that he is still alive.</p>
-
-<p>Rating: &#9733;&#9733;&#9733;&#9733;&#9734;</p>
-
-</div>
-
-I﻿f you know me, you know that I love the Halloween series. Not the biggest fan of *Halloween III: Season of the Witch*, but now that I know the reasoning behind why it doesn't fit with the rest of the series, I'm not going to go off on a tangent regarding the movie. 
+If you know me, you know that I love the Halloween series. Not the biggest fan of *Halloween III: Season of the Witch*, but now that I know the reasoning behind why it doesn't fit with the rest of the series, I'm not going to go off on a tangent regarding the movie. 
 
 N﻿ow in case you aren't aware, with these last three movies, *Halloween (2018)*, *Halloween Kills*, and *Halloween Ends*, John Carpenter and David Gordon Green retconned *Halloween 4 - Resurrection*. In this case, they decided that those events never actually happened. Some sources say that *Halloween 2* was also part of the retconning, which at first I'd doubted, but thinking back on a few scenes in *Halloween Kills*, I'm inclined to think it's true. 
 
