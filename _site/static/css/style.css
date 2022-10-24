@@ -76,12 +76,13 @@ h3 {
 }
 
 blockquote {
+    background: lavender;
     width: 70%;
     display: block;
-    margin-left: 150px;
-    border-left: rebeccapurple 5px solid;
-    padding-left: 15px;
-    margin-bottom: 15px;
+    margin: 0 auto;
+    border: rebeccapurple 1px solid;
+    padding: 15px;
+    margin-bottom: 20px;
     line-height: 1.5;
 }
 
@@ -273,8 +274,10 @@ header h1 {
 
 .when__posted {
     line-height: 1;
+    margin-top: 5px;
+    margin-bottom: 30px;
     padding-bottom: 20px;
-    font-size: 14px;
+    font-size: 0.9375em;
 }
 
 .the__post {
@@ -384,6 +387,7 @@ padding-left: 15px;
     padding-top: 15px;
     width: 87%;
     margin-left: 45px;
+    margin-top: 30px;
 }
 
 /* Sidebar Styles */
