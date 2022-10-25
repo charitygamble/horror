@@ -359,9 +359,8 @@ input[type=checkbox] {
     }
     
 .review__info {
-        border: .1875em dashed rebeccapurple;
-        outline: .1875em dashed black;
-        outline-offset: .3125em;
+        border: .0625em solid rebeccapurple;
+        background-color: lavender;
         margin-bottom: 2.5em;
         min-height: 15.625em;
         padding-top: .9375em;
@@ -498,6 +497,10 @@ input[type=checkbox] {
 @media (max-width: 48em) {
     .sidebar {
         display: none;
+    }
+
+    .review__info {
+        overflow: auto;
     }
 }
 
