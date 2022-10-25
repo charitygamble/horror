@@ -6,7 +6,7 @@ date: 2022-10-23T06:00:00.000Z
 ---
 <section class="review__info">
 
-<img loading="lazy" class="movie__poster" src="/static/images/television/ahsseason1.webp" alt="Movie Poster for American Horror Story Season 1" width="225" height="300" align="left">
+<img loading="lazy" class="movie__poster" src="/static/images/television/ahsmurderhouse.webp" alt="Movie Poster for American Horror Story Season 1" width="225" height="300" align="left">
     
 <strong>Movie:</strong> <em>American Horror Story Season 1</em><br>
 <strong>Director:</strong> Various<br>

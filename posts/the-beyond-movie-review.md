@@ -7,7 +7,7 @@ tags: posts
 ---
 <section class="review__info">
 
-<img loading="lazy" class="movie__poster" src="/static/images/movie/thebeyond1981.webp" alt="Movie Poster for Halloween Kills 2021" width="204" height="300" align="left">
+<img loading="lazy" class="movie__poster" src="/static/images/movie/thebeyond.webp" alt="Movie Poster for Halloween Kills 2021" width="205" height="300" align="left">
     
 <strong>Movie:</strong> <em>The Beyond</em><br>
 <strong>Director:</strong> Lucio Fulci<br>
