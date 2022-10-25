@@ -252,7 +252,7 @@ input[type=checkbox] {
 .when__posted {
     line-height: 1;
     margin-top: .3125em;
-    margin-bottom: 1.875em;
+    margin-bottom: 2em;
     padding-bottom: 1.25em;
     font-size: 0.9375em;
 }
@@ -267,6 +267,7 @@ input[type=checkbox] {
 
 .the__post {
     padding-bottom: 1.875em;
+    margin-top: 1.875em;
 }
 
 /* Post Styles */
@@ -303,6 +304,10 @@ input[type=checkbox] {
     margin-bottom: 1.875em;
     background: white;
     padding: .625em;
+}
+
+.post h3 {
+    margin-left: 1.3em;
 }
 
 .single__post {
