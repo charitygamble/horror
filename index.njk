@@ -10,7 +10,7 @@ pagination:
 <ul>
 {% for post in postlist %}
   <li><a class="post__url" href="{{ post.url | url }}"><h2 class="the__title">{{ post.data.title }}</h2></a>
-  <h5 class="when__posted">Posted on <span class="why__me">{{ post.date | readableDate }}</span> - by Charli</h5>
+  <span class="when__posted">Posted on <span class="why__me">{{ post.date | readableDate }}</span> - by Charli</span>
   <article class="the__post">{{ post.templateContent | safe }}</article></li>
 {% endfor %}
 </ul>

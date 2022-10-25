@@ -5,14 +5,21 @@ description: Movie Review of The Beyond - 1981
 date: 2022-10-11
 tags: posts
 ---
-<div class="review__info">
-    <img loading="lazy" class="movie__poster" src="/static/images/movie/thebeyond1981.webp" width="204" height="300" alt="Movie Poster for The Beyond - 1981" align="left">
-    <span class="film__stuff">Release Year: 1981<br>
-    Director: Lucio Fulci<br>
-    <p>BEYOND DEATH… BEYOND EVIL… BEYOND THE DREADED GATES OF HELL.</p>
-    <p>A young woman inherits an old hotel in Louisiana where, following a series of supernatural “accidents”, she learns that the building was built over one of the entrances to Hell.</p>
-    Rating: &#9733;&#9733;&#9733;&#9734;&#9734;</span>
-</div>
+<section class="review__info">
+
+<img loading="lazy" class="movie__poster" src="/static/images/movie/thebeyond1981.webp" alt="Movie Poster for Halloween Kills 2021" width="199" height="300" align="left">
+    
+<strong>Movie:</strong> <em>The Beyond</em><br>
+<strong>Director:</strong> Lucio Fulci<br>
+<strong>Producers:</strong> Fabrizio De Angelis<br>
+<strong>Studios:</strong> Fulvia Film <br>
+<strong>Release Year:</strong> 1981<br>
+<strong>Source:</strong> Shudder<br>
+<strong>Rating:</strong> &#9733;&#9733;&#9733;&#9734;&#9734;
+    
+<p class="review__description">BEYOND DEATH… BEYOND EVIL… BEYOND THE DREADED GATES OF HELL.</p>
+<p>A young woman inherits an old hotel in Louisiana where, following a series of supernatural “accidents”, she learns that the building was built over one of the entrances to Hell.</p>
+</section>
 
 When I watched <i>The Beyond</i> on Shudder, I knew it was going to be a bit on the "hokey" side of things. After all, the movie was released in 1981. Special effects weren't as good back then, so I wasn't expecting to see gore on today's scale.
 

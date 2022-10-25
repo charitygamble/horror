@@ -8,17 +8,19 @@ date: 2022-10-13T06:00:00.000Z
 
 <img loading="lazy" class="movie__poster" src="/static/images/movie/cannibalholocaust1980.webp" alt="Movie Poster for Cannibal Holocaust - 1980" width="200" height="300" align="left">
 
- <strong>Movie:</strong> <em>Halloween Kills</em><br>
-    <strong>Director:</strong> David Gordon Green<br>
-    <strong>Producers:</strong> Jamie Lee Curtis, John Carpenter, Danny McBride, David Gordon Green, Bill Block, Jason Blum, Malek Akkad,Jeanette Volturno, Couper Samuelson, Laura Altmann, Ryan Freimann<br>
-    <strong>Studios:</strong> Miramax, Universal Pictures, Blumhouse Productions, Trancas International Films, Rough House  Pictures, Home Again Productions <br>
-    <strong>Release Year:</strong> 2021<br>
-    <strong>Source:</strong> HBOMAX<br>
+ <strong>Movie:</strong> <em>Cannibal Holocaust</em><br>
+    <strong>Director:</strong> Ruggero Deodato<br>
+    <strong>Producers:</strong> Franco Di Nunzio, Franco Palaggi<br>
+    <strong>Studios:</strong> F. D. Cinematografica <br>
+    <strong>Release Year:</strong> 1980<br>
+    <strong>Source:</strong> Shudder<br>
     <strong>Rating:</strong> &#9733;&#9733;&#9734;&#9734;&#9734;
+    <p class="review__description">CAN A MOVIE GO TOO FAR?</p>
+    <p>A New York University professor returns from a rescue mission to the Amazon rainforest with the footage shot by a lost team of documentarians who were making a film about the area’s local cannibal tribes.</p>
 
 </div>
 
-Spoiler Alert - This review contains a few spoilers for the movie, although nothing that really spoils the plot. Read at your own risk.
+<blockquote>Spoiler Alert - This review contains a few spoilers for the movie, although nothing that really spoils the plot. Read at your own risk.</blockquote>
 
 I﻿'m going to come right out and say, I hated this movie. I gave it two stars, which was being generous. It should probably have been a one star movie.
 

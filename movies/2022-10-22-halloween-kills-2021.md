@@ -16,7 +16,7 @@ date: 2022-10-22T06:00:00.000Z
 <strong>Source:</strong> HBOMAX<br>
 <strong>Rating:</strong> &#9733;&#9733;&#9733;&#9733;&#9734;
     
-<p>The nightmare isn’t over as unstoppable killer Michael Myers escapes from Laurie Strode’s trap to continue his ritual bloodbath. Injured and taken to the hospital, Laurie fights through the pain as she inspires residents of Haddonfield, Ill., to rise up against Myers. Taking matters into their own hands, the Strode women and other survivors form a vigilante mob to hunt down Michael and end his reign of terror once and for all.</p>
+<p class="review__description">The nightmare isn’t over as unstoppable killer Michael Myers escapes from Laurie Strode’s trap to continue his ritual bloodbath. Injured and taken to the hospital, Laurie fights through the pain as she inspires residents of Haddonfield, Ill., to rise up against Myers. Taking matters into their own hands, the Strode women and other survivors form a vigilante mob to hunt down Michael and end his reign of terror once and for all.</p>
 </section>
 
 If you know me, you know that I love the Halloween series. Not the biggest fan of *Halloween III: Season of the Witch*, but now that I know the reasoning behind why it doesn't fit with the rest of the series, I'm not going to go off on a tangent regarding the movie. 

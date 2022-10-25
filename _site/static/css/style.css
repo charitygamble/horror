@@ -38,7 +38,7 @@ h3 {
 
 blockquote {
     background: lavender;
-    width: 85%;
+    width: 70%;
     display: block;
     margin: 0 auto;
     border: rebeccapurple 0.0625em solid;
@@ -113,6 +113,12 @@ header h1 {
     color: mediumpurple;
 }
 
+.logo {
+    font-family: 'Creepster', sans-serif;
+    font-size: 2em;
+    color: white;
+}
+
 .menu {
     display: flex;
     gap: 2em;
@@ -176,6 +182,7 @@ input[type=checkbox] {
     font-size: 3.75em;
     text-align: center;
     margin-bottom: 1.25em;
+    margin-top: .25em;
 }
 
 .wrap_it_up {
@@ -250,6 +257,14 @@ input[type=checkbox] {
     font-size: 0.9375em;
 }
 
+.when__posted2 {
+    line-height: 1;
+    margin-top: .3125em;
+    margin-left: 3.4em;
+    margin-bottom: 1.875em;
+    padding-bottom: 1.25em;
+}
+
 .the__post {
     padding-bottom: 1.875em;
 }
@@ -284,7 +299,8 @@ input[type=checkbox] {
 
 .post {
     max-width: 90%;
-    margin: 1.875em auto;
+    margin-top: 1.875em;
+    margin-bottom: 1.875em;
     background: white;
     padding: .625em;
 }
@@ -296,13 +312,13 @@ input[type=checkbox] {
 
 .post-title {
     margin-top: 3.125em;
-    line-height:90%;
-    padding-left: 5.625em;
+    margin-left: 1.4em;
+    line-height: 90%;
 }
 
 .post-date {
     line-height: 130%;
-    padding-left: 5.625em;
+    margin-left: 1.875em;
 }
 
 .post__title {
@@ -353,6 +369,10 @@ input[type=checkbox] {
         margin-left: 2.8125em;
         margin-top: 1.875em;
     }
+
+.review__description {
+    margin-top: 2.5em;
+}
 
     /* Sidebar Styles */
 
