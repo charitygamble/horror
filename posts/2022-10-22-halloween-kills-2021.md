@@ -4,7 +4,7 @@ title: Halloween Kills - 2021
 description: Movie Review for Halloween Kills - 2021
 date: 2022-10-22T06:00:00.000Z
 ---
-<section class="movie__info">
+<section class="review__info">
 
 <img loading="lazy" class="movie__poster" src="/static/images/movie/halloweenkills2021.webp" alt="Movie Poster for Halloween Kills 2021" width="199" height="300" align="left">
     

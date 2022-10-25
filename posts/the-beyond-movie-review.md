@@ -5,7 +5,7 @@ description: Movie Review of The Beyond - 1981
 date: 2022-10-11
 tags: posts
 ---
-<div class="movie__info">
+<div class="review__info">
     <img loading="lazy" class="movie__poster" src="/static/images/movie/thebeyond1981.webp" width="204" height="300" alt="Movie Poster for The Beyond - 1981" align="left">
     <span class="film__stuff">Release Year: 1981<br>
     Director: Lucio Fulci<br>

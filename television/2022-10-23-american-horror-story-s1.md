@@ -5,7 +5,7 @@ description: TV Show Review for American Horror Story Season 1
 date: 2022-10-23T06:00:00.000Z
 ---
 
-<div class="movie__info">
+<div class="review__info">
 
 <img loading="lazy" class="movie__poster" src="/static/images/television/ahsseason1.webp" width="225" height="300" alt="Movie Poster for American Horror Story Season 1" align="left">
 

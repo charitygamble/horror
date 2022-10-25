@@ -1,14 +1,21 @@
-/*Import Google Fonts */
-
-@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Poppins:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Poppins:ital,wght@0,400;0,600;0,700;1,400;1,600&display=swap');
 
 /* Global Styles */
 body {
     background-color: white;
     font-family: 'Poppins', sans-serif;
-    line-height: 1.25;
     font-size: 1em;
+    line-height: 1.25;
     color: black;
+}
+
+strong, b {
+    font-weight: bold;
+}
+
+em, i {
+    font-style: italic;
 }
 
 h1, h2, h3 {
@@ -84,74 +91,86 @@ header h1 {
 
 /* Navigation Styles */
 
-.navbar__one {
-    width: 100%;
-    background: black;
-    height: 3.125em;
-    margin: 0;
-    z-index: 99;
+.topnav {
     display: flex;
-    flex-flow: row wrap;
-    justify-content: space-evenly;
-    list-style-type: none;
-    text-align: center;
-}
-
-.nav__one {
-    padding: 0;
-    margin: 0 auto;
-    display: flex;
-    flex-flow: row;
-}
-
-.menu-item {
-    height: auto;
-    width: 8.4875em;
-    float: left;
-    text-align: center;
-    list-style: none;
-    font: normal bold 1em 'Poppins', sans-serif;
-    padding: 0;
-    margin: 0;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.25em;
     background-color: black;
-}
-
-.menu-item a {
-    padding: 1em 0;
-    text-decoration: none;
     color: white;
-    display: block;
 }
 
-.nav__one a:active {
-    color: rebeccapurple;
+.nav-links a {
+    color: white;
+    text-decoration: none;
 }
 
-.nav__one a:hover {
+.nav-links a:active {
+    color: lavender;
+}
+
+.nav-links a:visited {
     color: mediumpurple;
 }
 
-.nav__one a:visited {
-    color: lightgray;
+.menu {
+    display: flex;
+    gap: 2em;
+    font-size: 1.125em;
 }
 
-.nav__one li ul {
+.menu li:hover {
+    background-color: lightgray;
+    border-radius: .3125em;
+    transition: 0.3s ease;
+}
+
+.menu li {
+    padding: .3125em .875em;
+}
+
+/*Responsive Menu Start*/
+/*Checkbox Hack*/
+input[type=checkbox] {
     display: none;
-    height: auto;
-    margin: 0;
-    padding: 0;
 }
 
-.nav__one li:hover ul {
-    display: block;
+/*Hamburber Menu*/
+.hamburger {
+    display: none;
+    font-size: 1.5em;
+    user-select: none;
 }
 
-.nav_one li ul li {
-    background: black;
-    color: white;
+/*Navigation Media Queries*/
+@media (max-width: 48em) {
+    .menu {
+        display: none;
+        position: absolute;
+        background-color: black;
+        right: 0;
+        left: 0;
+        text-align: center;
+        padding: 1em 0;
+    }
+
+    .menu li:hover {
+        display: inline-block;
+        background-color: mediumpurple;
+        color: white;
+        transition: 0.3s ease;
+    }
+
+    input[type=checkbox]:checked ~ .menu {
+        display: block;
+    }
+
+    .hamburger {
+        display: block;
+    }
 }
 
-/* Content Main */
+/*Content Main*/
 
 .archive__header {
     font-size: 3.75em;
@@ -161,6 +180,11 @@ header h1 {
 
 .wrap_it_up {
     margin: 0 auto;
+    text-align: center;
+}
+
+.credits_header {
+    font-size: 1.875em;
     text-align: center;
 }
 
@@ -183,11 +207,6 @@ header h1 {
 
 .credits_list a:visited {
     color: black;
-}
-
-.credits_header {
-    font-size: 1.875em;
-    text-align: center;
 }
 
 .choose_your_adventure {
@@ -234,6 +253,7 @@ header h1 {
 .the__post {
     padding-bottom: 1.875em;
 }
+
 /* Post Styles */
 
 .postlist {
@@ -311,31 +331,30 @@ header h1 {
     font-size: 1em;
 }
 
+/*Review Post Styles */
 
-/* Movie Review Posts */
+.review__info img {
+    height: auto;
+    width: auto;
+    max-width: 9.375em;
+    max-height: 18.75em;
+    padding-right: .9375em;
+    padding-left: .9875em;
+    }
+    
+.review__info {
+        border: .1875em dashed rebeccapurple;
+        outline: .1875em dashed black;
+        outline-offset: .3125em;
+        margin-bottom: 2.5em;
+        min-height: 15.625em;
+        padding-top: .9375em;
+        width: 87%;
+        margin-left: 2.8125em;
+        margin-top: 1.875em;
+    }
 
-.movie__info img {
-height: auto;
-width: auto;
-max-width: 9.375em;
-max-height: 18.75em;
-padding-right: .9375em;
-padding-left: .9875em;
-}
-
-.movie__info {
-    border: .1875em dashed rebeccapurple;
-    outline: .1875em dashed black;
-    outline-offset: .3125em;
-    margin-bottom: 2.5em;
-    min-height: 15.625em;
-    padding-top: .9375em;
-    width: 87%;
-    margin-left: 2.8125em;
-    margin-top: 1.875em;
-}
-
-/* Sidebar Styles */
+    /* Sidebar Styles */
 
 .sidebar {
     margin-top: 1.25em;
@@ -456,31 +475,7 @@ padding-left: .9875em;
     text-align: center;
 }
 
-/* Media Queries */
- 
-@media (max-width: 40em) {
-    .navbar__one {
-        justify-content: center;
-    }
-}
-
-@media all and (max-width: 37.5em) {
-    .nav__one {
-        flex-flow: column wrap;
-        padding: 0;
-    }
-    .nav__one a {
-        text-align: center;
-        padding: .625em;
-        border-top: .0625em solid rgba(255, 255, 255, 0.3);
-        border-bottom: .0625em solid rgba(0, 0, 0,   0.1);
-    }
-    .nav__one li:last-of-type a {
-        border-bottom: none;
-    }
-}
-
-@media (max-width: 40em) {
+@media (max-width: 48em) {
     .sidebar {
         display: none;
     }

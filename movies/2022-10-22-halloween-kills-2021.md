@@ -4,15 +4,17 @@ title: Halloween Kills - 2021
 description: Movie Review for Halloween Kills - 2021
 date: 2022-10-22T06:00:00.000Z
 ---
-<section class="movie__info">
+<section class="review__info">
 
 <img loading="lazy" class="movie__poster" src="/static/images/movie/halloweenkills2021.webp" alt="Movie Poster for Halloween Kills 2021" width="199" height="300" align="left">
     
-Director: David Gordon Green<br>
-Producers: Jamie Lee Curtis, John Carpenter, Danny McBride, David Gordon Green, Bill Block, Jason Blum, Malek Akkad,Jeanette Volturno, Couper Samuelson, Laura Altmann, Ryan Freimann<br>
-Studios: Miramax, Universal Pictures, Blumhouse Productions, Trancas International Films, Rough House Pictures, Home Again Productions <br>
-Source: HBOMAX<br>
-Rating: &#9733;&#9733;&#9733;&#9733;&#9734;
+<strong>Movie:</strong> <em>Halloween Kills</em><br>
+<strong>Director:</strong> David Gordon Green<br>
+<strong>Producers:</strong> Jamie Lee Curtis, John Carpenter, Danny McBride, David Gordon Green, Bill Block, Jason Blum, Malek Akkad,Jeanette Volturno, Couper Samuelson, Laura Altmann, Ryan Freimann<br>
+<strong>Studios:</strong> Miramax, Universal Pictures, Blumhouse Productions, Trancas International Films, Rough House Pictures, Home Again Productions <br>
+<strong>Release Year:</strong> 2021<br>
+<strong>Source:</strong> HBOMAX<br>
+<strong>Rating:</strong> &#9733;&#9733;&#9733;&#9733;&#9734;
     
 <p>The nightmare isn’t over as unstoppable killer Michael Myers escapes from Laurie Strode’s trap to continue his ritual bloodbath. Injured and taken to the hospital, Laurie fights through the pain as she inspires residents of Haddonfield, Ill., to rise up against Myers. Taking matters into their own hands, the Strode women and other survivors form a vigilante mob to hunt down Michael and end his reign of terror once and for all.</p>
 </section>

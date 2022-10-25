@@ -11,17 +11,22 @@
     <body>
       <div class="wrapper">
         <header role="banner" class="header">
-       <h1>The Horror Revue</h1>
+                <h1>The Horror Revue</h1>
         </header>
-        <nav role="navigation" id="top-navigation" class="navbar__one">
-          <ul class="nav__one">
-            <li class="menu-item"><a href="/index.html">Home</a></li>
-            <li class="menu-item"><a href="/about/">About</a></li>
-            <li class="menu-item"><a href="/posts/">Blog</a></li>
-            <li class="menu-item"><a href="/books/">Books</a><li>
-            <li class="menu-item"><a href="/movies/">Movies</a><li>
-            <li class="menu-item"><a href="/television/">TV Shows</a></li>
-            <li class="menu-item"><a href="/credits/">Site Credits</a></li>
+        <nav role="navigation" class="topnav">
+          <ul class="nav-links">
+            <!-- Using CHECKBOX HACK -->
+              <input type="checkbox" id="checkbox__toggle">
+              <label for="checkbox__toggle" class="hamburger">&#9776;</label>
+            <div class="menu">
+              <li class="menu__item"><a href="/">Home</a></li>
+              <li class="menu__item"><a href="/about/">About</a></li>
+              <li class="menu__item"><a href="/posts/">Blog</a></li>
+              <li class="menu__item"><a href="/movies/">Movies</a></li>
+              <li class="menu__item"><a href="/books/">Books</a></li>
+              <li class="menu__item"><a href="/television/">TV Shows</a></li>
+              <li class="menu__itme"><a href="/credits/">Credits</a></li>
+            </div>
           </ul>
         </nav>
         <main class="content__main">
@@ -31,13 +36,15 @@
 
   <li><a class="post__url" href="/posts/2022-10-13-cannibal-holocaust-1980/"><h2 class="the__title">Cannibal Holocaust - 1980</h2></a>
   <h5 class="when__posted">Posted on <span class="why__me">10-13-22</span> - by Charli</h5>
-  <article class="the__post"><div class="movie__info">
+  <article class="the__post"><div class="review__info">
 <img loading="lazy" class="movie__poster" src="/static/images/movie/cannibalholocaust1980.webp" alt="Movie Poster for Cannibal Holocaust - 1980" width="200" height="300" align="left">
-<p>Release Year: 1980</p>
-<p>Director: Ruggero Deodato</p>
-<p>CAN A MOVIE GO TOO FAR?</p>
-<p>A New York University professor returns from a rescue mission to the Amazon rainforest with the footage shot by a lost team of documentarians who were making a film about the area's local cannibal tribes.</p>
-<p>Rating: ★★☆☆☆</p>
+<p><strong>Movie:</strong> <em>Halloween Kills</em><br>
+<strong>Director:</strong> David Gordon Green<br>
+<strong>Producers:</strong> Jamie Lee Curtis, John Carpenter, Danny McBride, David Gordon Green, Bill Block, Jason Blum, Malek Akkad,Jeanette Volturno, Couper Samuelson, Laura Altmann, Ryan Freimann<br>
+<strong>Studios:</strong> Miramax, Universal Pictures, Blumhouse Productions, Trancas International Films, Rough House  Pictures, Home Again Productions <br>
+<strong>Release Year:</strong> 2021<br>
+<strong>Source:</strong> HBOMAX<br>
+<strong>Rating:</strong> ★★☆☆☆</p>
 </div>
 <p>Spoiler Alert - This review contains a few spoilers for the movie, although nothing that really spoils the plot. Read at your own risk.</p>
 <p>I﻿'m going to come right out and say, I hated this movie. I gave it two stars, which was being generous. It should probably have been a one star movie.</p>
@@ -48,7 +55,7 @@
 
   <li><a class="post__url" href="/posts/the-beyond-movie-review/"><h2 class="the__title">The Beyond - 1981</h2></a>
   <h5 class="when__posted">Posted on <span class="why__me">10-11-22</span> - by Charli</h5>
-  <article class="the__post"><div class="movie__info">
+  <article class="the__post"><div class="review__info">
     <img loading="lazy" class="movie__poster" src="/static/images/movie/thebeyond1981.webp" width="204" height="300" alt="Movie Poster for The Beyond - 1981" align="left">
     <span class="film__stuff">Release Year: 1981<br>
     Director: Lucio Fulci<br>
@@ -88,6 +95,20 @@
 
 
 <div class="film__items">
+    
+    <article class="film__entry">
+        <a href="https://letterboxd.com/horrorrevue/film/hereditary/" class="film__url">
+            <div class="film__info">
+                <img class="movie__poster" src="https://a.ltrbxd.com/resized/film-poster/4/2/4/3/4/8/424348-hereditary-0-70-0-105-crop.jpg?v=470e48b681"
+                alt="Poster for Hereditary"
+                loading="lazy" align="left">
+                Hereditary<br>
+                ★★★
+                <!-- <span class="film__watched-date">1666569600000</span> -->
+            </div>
+            <br>
+        </a>
+    </article>
     
     <article class="film__entry">
         <a href="https://letterboxd.com/horrorrevue/film/the-purge/" class="film__url">
@@ -139,20 +160,6 @@
                 loading="lazy" align="left">
                 Kuso<br>
                 ★
-                <!-- <span class="film__watched-date">1665964800000</span> -->
-            </div>
-            <br>
-        </a>
-    </article>
-    
-    <article class="film__entry">
-        <a href="https://letterboxd.com/horrorrevue/film/primal-screen/" class="film__url">
-            <div class="film__info">
-                <img class="movie__poster" src="https://a.ltrbxd.com/resized/film-poster/4/0/9/5/4/1/409541-primal-screen-0-70-0-105-crop.jpg?v=adc94b686b"
-                alt="Poster for Primal Screen"
-                loading="lazy" align="left">
-                Primal Screen<br>
-                ★★★★
                 <!-- <span class="film__watched-date">1665964800000</span> -->
             </div>
             <br>

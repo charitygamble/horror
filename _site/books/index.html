@@ -11,17 +11,22 @@
     <body>
       <div class="wrapper">
         <header role="banner" class="header">
-       <h1>The Horror Revue</h1>
+                <h1>The Horror Revue</h1>
         </header>
-        <nav role="navigation" id="top-navigation" class="navbar__one">
-          <ul class="nav__one">
-            <li class="menu-item"><a href="/index.html">Home</a></li>
-            <li class="menu-item"><a href="/about/">About</a></li>
-            <li class="menu-item"><a href="/posts/">Blog</a></li>
-            <li class="menu-item"><a href="/books/">Books</a><li>
-            <li class="menu-item"><a href="/movies/">Movies</a><li>
-            <li class="menu-item"><a href="/television/">TV Shows</a></li>
-            <li class="menu-item"><a href="/credits/">Site Credits</a></li>
+        <nav role="navigation" class="topnav">
+          <ul class="nav-links">
+            <!-- Using CHECKBOX HACK -->
+              <input type="checkbox" id="checkbox__toggle">
+              <label for="checkbox__toggle" class="hamburger">&#9776;</label>
+            <div class="menu">
+              <li class="menu__item"><a href="/">Home</a></li>
+              <li class="menu__item"><a href="/about/">About</a></li>
+              <li class="menu__item"><a href="/posts/">Blog</a></li>
+              <li class="menu__item"><a href="/movies/">Movies</a></li>
+              <li class="menu__item"><a href="/books/">Books</a></li>
+              <li class="menu__item"><a href="/television/">TV Shows</a></li>
+              <li class="menu__itme"><a href="/credits/">Credits</a></li>
+            </div>
           </ul>
         </nav>
         <main class="content__main">
@@ -32,18 +37,19 @@
 
   <li><a class="post__url" href="/books/2022-10-23-chasing-the-boogeyman-by-richard-chizmar/"><h2 tabindex="-1" class="the__title">Chasing the Boogeyman by Richard Chizmar</h2></a>
   <span class="when__posted">Posted on <span class="why__me">05-12-21</span> - by Charli</span>
-  <article class="the__post"><section class="movie__info">
+  <article class="the__post"><section class="review__info">
 <img loading="lazy" class="movie__poster" src="/static/images/book/chasingtheboogeyman.webp" alt="Book Cover for Chasing the Boogeyman by Richard Chizmar" width="199" height="300" align="left">
-<p>Author: Richard Chizmar<br>
-Publication Date: August 17, 2021<br>
-Publisher: Simon &amp; Schuster<br>
-Format: eARC<br>
-Source: NetGalley<br>
-Rating: ★★★★★</p>
-<p>The New York Times bestselling coauthor of Gwendy’s Button Box brings his signature “thrilling, page-turning” (Michael Koryta, author of How It Happened) prose to this story of small-town evil that combines the storytelling of Stephen King with the true-crime suspense of Michelle McNamara.</p>
+<p><strong>Book:</strong> <em>Chasing the Boogeyman</em><br>
+<strong>Author:</strong> Richard Chizmar<br>
+<strong>Publication Date:</strong> August 17, 2021<br>
+<strong>Publisher:</strong> Simon &amp; Schuster<br>
+<strong>Format:</strong> eARC<br>
+<strong>Source:</strong> NetGalley<br>
+<strong>Rating:</strong> ★★★★★</p>
+<p>The New York Times bestselling coauthor of <em>Gwendy’s Button Box</em> brings his signature “thrilling, page-turning” (Michael Koryta, author of How It Happened) prose to this story of small-town evil that combines the storytelling of Stephen King with the true-crime suspense of Michelle McNamara.</p>
 <p>In the summer of 1988, the mutilated bodies of several missing girls begin to turn up in a small Maryland town. The grisly evidence leads police to the terrifying assumption that a serial killer is on the loose in the quiet suburb. But soon a rumor begins to spread that the evil stalking local teens is not entirely human. Law enforcement, as well as members of the FBI are certain that the killer is a living, breathing madman—and he’s playing games with them. For a once peaceful community trapped in the depths of paranoia and suspicion, it feels like a nightmare that will never end.</p>
 <p>Recent college graduate Richard Chizmar returns to his hometown just as a curfew is enacted and a neighborhood watch is formed. In the midst of preparing for his wedding and embarking on a writing career, he soon finds himself thrust into the real-life horror story. Inspired by the terrifying events, Richard writes a personal account of the serial killer’s reign of terror, unaware that these events will continue to haunt him for years to come.</p>
-<p>A clever, terrifying, and heartrending work of metafiction, Chasing the Boogeyman is the ultimate marriage between horror fiction and true crime. Chizmar’s “brilliant…absolutely fascinating, totally compelling, and immediately poignant” (C.J. Tudor, New York Times bestselling author) writing is on full display in this truly unique novel that will haunt you long after you turn the final page..</p>
+<p>A clever, terrifying, and heartrending work of metafiction, <em>Chasing the Boogeyman</em> is the ultimate marriage between horror fiction and true crime. Chizmar’s “brilliant…absolutely fascinating, totally compelling, and immediately poignant” (C.J. Tudor, New York Times bestselling author) writing is on full display in this truly unique novel that will haunt you long after you turn the final page..</p>
 </section>
 <blockquote>I received a copy of this book free from NetGalley and Simon &amp; Schuster to facilitate my review. All opinions given are 100% my own.</blockquote>
 <p>CW: Death, Suicide, Murder, Animal Cruelty, Animal Death (mention)</p>
@@ -84,6 +90,20 @@ Rating: ★★★★★</p>
 
 
 <div class="film__items">
+    
+    <article class="film__entry">
+        <a href="https://letterboxd.com/horrorrevue/film/hereditary/" class="film__url">
+            <div class="film__info">
+                <img class="movie__poster" src="https://a.ltrbxd.com/resized/film-poster/4/2/4/3/4/8/424348-hereditary-0-70-0-105-crop.jpg?v=470e48b681"
+                alt="Poster for Hereditary"
+                loading="lazy" align="left">
+                Hereditary<br>
+                ★★★
+                <!-- <span class="film__watched-date">1666569600000</span> -->
+            </div>
+            <br>
+        </a>
+    </article>
     
     <article class="film__entry">
         <a href="https://letterboxd.com/horrorrevue/film/the-purge/" class="film__url">
@@ -135,20 +155,6 @@ Rating: ★★★★★</p>
                 loading="lazy" align="left">
                 Kuso<br>
                 ★
-                <!-- <span class="film__watched-date">1665964800000</span> -->
-            </div>
-            <br>
-        </a>
-    </article>
-    
-    <article class="film__entry">
-        <a href="https://letterboxd.com/horrorrevue/film/primal-screen/" class="film__url">
-            <div class="film__info">
-                <img class="movie__poster" src="https://a.ltrbxd.com/resized/film-poster/4/0/9/5/4/1/409541-primal-screen-0-70-0-105-crop.jpg?v=adc94b686b"
-                alt="Poster for Primal Screen"
-                loading="lazy" align="left">
-                Primal Screen<br>
-                ★★★★
                 <!-- <span class="film__watched-date">1665964800000</span> -->
             </div>
             <br>

@@ -4,19 +4,17 @@ title: Cannibal Holocaust - 1980
 description: Movie Review for Cannibal Holocaust - 1980
 date: 2022-10-13T06:00:00.000Z
 ---
-<div class="movie__info">
+<div class="review__info">
 
 <img loading="lazy" class="movie__poster" src="/static/images/movie/cannibalholocaust1980.webp" alt="Movie Poster for Cannibal Holocaust - 1980" width="200" height="300" align="left">
 
-Release Year: 1980
-
-Director: Ruggero Deodato
-
-CAN A MOVIE GO TOO FAR?
-
-A New York University professor returns from a rescue mission to the Amazon rainforest with the footage shot by a lost team of documentarians who were making a film about the area's local cannibal tribes.
-
-Rating: &#9733;&#9733;&#9734;&#9734;&#9734;
+ <strong>Movie:</strong> <em>Halloween Kills</em><br>
+    <strong>Director:</strong> David Gordon Green<br>
+    <strong>Producers:</strong> Jamie Lee Curtis, John Carpenter, Danny McBride, David Gordon Green, Bill Block, Jason Blum, Malek Akkad,Jeanette Volturno, Couper Samuelson, Laura Altmann, Ryan Freimann<br>
+    <strong>Studios:</strong> Miramax, Universal Pictures, Blumhouse Productions, Trancas International Films, Rough House  Pictures, Home Again Productions <br>
+    <strong>Release Year:</strong> 2021<br>
+    <strong>Source:</strong> HBOMAX<br>
+    <strong>Rating:</strong> &#9733;&#9733;&#9734;&#9734;&#9734;
 
 </div>
 

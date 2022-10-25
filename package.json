@@ -1,7 +1,6 @@
 {
   "name": "horrorrevue",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,5 +23,6 @@
     "letterboxd": "^2.0.0",
     "luxon": "^3.0.4",
     "striptags": "^3.2.0"
-  }
+  },
+  "description": ""
 }
