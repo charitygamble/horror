@@ -350,8 +350,6 @@ input[type=checkbox] {
 /*Review Post Styles */
 
 .review__info img {
-    height: auto;
-    width: auto;
     max-width: 9.375em;
     max-height: 18.75em;
     padding-right: .9375em;
