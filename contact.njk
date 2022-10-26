@@ -1,0 +1,26 @@
+---
+layout: layouts/base.njk
+permalink: /contact/
+---
+<h1 class="archive__header">Contact Me</h1>
+<p>If you're a horror author who would like a book review or if you're a horror enthusiast who has a movie or TV show  recommendation for me, fill out this form and I'll get back to you as soon as possible!</p>
+<p class="please__note">Please note: Movie/TV Show recommendations need to be on one of the following services:
+    <ul class="streaming__list">
+        <li>HBOMAX</li>
+        <li>Shudder</li>
+        <li>Hulu</li>
+        <li>Netflix</li>
+        <li>Tubi</li>
+        <li>Peacock</li>
+        <li>Paramount+</li>
+        <li>YouTube (Free on YouTube)</li>
+        <li>Discovery+ (Documentaries)</li>
+    </ul>
+</p>
+
+<form name="contact" method="POST" data-netlify="true">
+    <p><label>Name:<br> <input type="text" size="49" name="name"></label></p>
+    <p><label>Email:<br> <input type="text" size="49" name="email"></label></p>
+    <p><label>Message:<br><textarea rows="10" cols="40" name="message"></textarea></label></p>
+    <p><button type="submit">Send</button></p>
+</form>

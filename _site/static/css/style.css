@@ -452,6 +452,42 @@ input[type=checkbox] {
     margin-bottom: 2.5em;
 }
 
+/* Contact Page Styles */
+
+.streaming__list {
+    list-style-type: square;
+    display: block;
+    margin: 0 auto;
+    padding-left: 5em;
+}
+
+form {
+    text-align: center;
+}
+
+input {
+    border: .1875em solid black;
+    border-radius: .3125em;
+    height: 2em;
+}
+
+textarea {
+    border: .1875em solid black;
+    border-radius: .3125em;
+}
+
+button {
+    background-color: black;
+    border: none;
+    border-radius: .3125em;
+    color: white;
+    padding: .9375em 2em;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1em;
+}
+
 /* Footer Styles */
 
 .footer {
