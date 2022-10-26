@@ -496,12 +496,40 @@ input[type=checkbox] {
 }
 
 @media (max-width: 48em) {
+
+    h1, h2, h3 {
+        font-family: 'Tahoma', sans-serif;
+    }
+
+    h2 {
+        font-size: 1.75em;
+        padding-left: 1.3em;
+    }
+
+    h3 {
+        font-size: 1.5em;
+        padding-left: 1.7em;
+    }
+
+    .when__posted {
+        padding-left: 2.7em;
+    }
     .sidebar {
         display: none;
     }
 
     .review__info {
         overflow: auto;
+        padding-right: 2em;
+    }
+    
+    .review__info img {
+        display: block;
+        padding-left: 4em;
+        padding-bottom: 2em;
+        margin: 0 auto;
+        height: 75%;
+        width: 75%;
     }
 }
 
