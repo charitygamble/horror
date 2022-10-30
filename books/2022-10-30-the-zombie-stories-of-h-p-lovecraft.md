@@ -13,7 +13,7 @@ date: 2019-09-24T06:00:00.000Z
 <b>Publisher:</b> Dover Publications, Inc\
 <b>Format:</b> eArc\
 <b>Source:</b> NetGalley\
-<b>Rating:</b> &#9733;&#9733;&#9733;&#9734;&#9734;\
+<b>Rating:</b> &#9733;&#9733;&#9733;&#9734;&#9734;
 
 <p class="review__description">"A fantastic anthology by the true master of horror fiction. Highly recommended." — Book Nutter's Book Reviews</p>
 
