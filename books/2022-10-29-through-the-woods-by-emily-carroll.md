@@ -11,7 +11,8 @@ date: 2018-07-31T06:00:00.000Z
 <b>Publisher:</b> Simon &amp; Schuster\
 <b>Format:</b> eBook\
 <b>Source:</b> Personal Library\
-<b>Rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;\
+<b>Rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;
+
 <p class="review__description">Discover a terrifying world in the woods in this collection of five hauntingly beautiful graphic stories that includes the online webcomic sensation “His Face All Red,” in print for the first time.</p>
 
 <p>Journey through the woods in this sinister, compellingly spooky collection that features four brand-new stories and one phenomenally popular tale in print for the first time. These are fairy tales gone seriously wrong, where you can travel to “Our Neighbor’s House”—though coming back might be a problem. Or find yourself a young bride in a house that holds a terrible secret in “A Lady’s Hands Are Cold.” You might try to figure out what is haunting “My Friend Janna,” or discover that your brother’s fiancée may not be what she seems in “The Nesting Place.” And of course you must revisit the horror of “His Face All Red,” the breakout webcomic hit that has been gorgeously translated to the printed page.</p>
