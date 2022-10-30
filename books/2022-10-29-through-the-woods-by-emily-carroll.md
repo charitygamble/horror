@@ -4,20 +4,13 @@ title: Through the Woods by Emily Carroll
 description: Book Review for Through the Woods by Emily Carroll
 date: 2018-07-31T06:00:00.000Z
 ---
-<section class="review__info">
+<section class="review__info"><img loading="lazy" class="movie__poster" src="/static/images/book/throughthewoods.webp" alt="Book Cover for Through the Woods by Emily Carroll" width="318" height="411" align="left">
 
-<img loading="lazy" class="movie__poster" src="/static/images/book/throughthewoods.webp" alt="Book Cover for Through the Woods by Emily Carroll" width="318" height="411" align="left">
-
-<b>Author:</b> Emily Carroll<br>
-
-<b>Publication Date:</b> July 15, 2014<br>
-
-<b>Publisher:</b> Simon &amp; Schuster<br>
-
-<b>Format:</b> eBook<br>
-
-<b>Source:</b> Personal Library<br>
-
+<b>Author:</b> Emily Carroll\
+<b>Publication Date:</b> July 15, 2014\
+<b>Publisher:</b> Simon &amp; Schuster\
+<b>Format:</b> eBook\
+<b>Source:</b> Personal Library\
 <b>Rating:</b> &#9733;&#9733;&#9733;&#9733;&#9733;
 
 <p class="review__description">Discover a terrifying world in the woods in this collection of five hauntingly beautiful graphic stories that includes the online webcomic sensation “His Face All Red,” in print for the first time.</p>
