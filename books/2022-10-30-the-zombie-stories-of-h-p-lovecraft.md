@@ -14,6 +14,7 @@ date: 2019-09-24T06:00:00.000Z
 <b>Format:</b> eArc\
 <b>Source:</b> NetGalley\
 <b>Rating:</b> &#9733;&#9733;&#9733;&#9734;&#9734;\
+
 <p class="review__description">"A fantastic anthology by the true master of horror fiction. Highly recommended." — Book Nutter's Book Reviews</p>
 
 <p>"This is an excellent collection of Lovecraft's 'zombie' stories, which serves both as a treat to old fans and a sampler to people who haven't read Lovecraft before. I would highly recommend this collection." — Of Stacks and Cups</p>
@@ -26,7 +27,7 @@ date: 2019-09-24T06:00:00.000Z
 
 </section>
 
-<﻿blockquote>I received this book for free from NetGalley in exchange for an honest review. This does not affect my opinion of the book or the content of my review.</blockquote>
+> I received this book for free from NetGalley in exchange for an honest review. This does not affect my opinion of the book or the content of my review.
 
 When I think of zombies, I think of undead beings who stagger around, moaning and groaning, and looking to consume human (or non-human) flesh and/or brains. I think Night of the Living Dead, The Walking Dead, etc.. What I don’t think of, are scientific reanimations of corpses, black magic being used to take over others’ bodies, or any of the other things that happened in this book.
 
