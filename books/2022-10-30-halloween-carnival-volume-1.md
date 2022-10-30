@@ -14,7 +14,7 @@ date: 2018-09-28T06:00:00.000Z
 <b>Publisher:</b> Random House Publishing Group\
 <b>Format:</b> eArc\
 <b>Source:</b> NetGalley\
-<b>Rating:</b> &#9733;&#9733;&#9733;&#9733;&#9734;\
+<b>Rating:</b> &#9733;&#9733;&#9733;&#9733;&#9734;
 
 <p class="review__description">Robert McCammon, Kevin Lucia, John R. Little, Lisa Morton, and Mark Allan Gunnells put the horror back in Halloween with a quintet of devilishly delightful tales, curated by acclaimed author and editor Brian James Freeman.</p>
 
@@ -30,11 +30,11 @@ date: 2018-09-28T06:00:00.000Z
 
 <p><b>Praise for Halloween Carnival Volume 1</b></p>
 
-<p>“<i>\\[Halloween Carnival: Volume One]</i> provides festive entertainment from an assortment of the genre’s most accomplished regulars.”<b>—Unnerving Magazine</b></p>
+<p>“<i>\\\[Halloween Carnival: Volume One]</i> provides festive entertainment from an assortment of the genre’s most accomplished regulars.”<b>—Unnerving Magazine</b></p>
 
 <p> “Entertaining . . . I’d suggest reading them in the daytime.”<b>—Journey of a Bookseller</b> </p>
 
-<p>“A solid collection . . . A Halloween fan who reads ebooks can’t go wrong here.”<b>—Battered, Tattered, Yellowed, & Creased</b></p>\
+<p>“A solid collection . . . A Halloween fan who reads ebooks can’t go wrong here.”<b>—Battered, Tattered, Yellowed, & Creased</b></p>
 </section>
 
 > I received this book for free from NetGalley in exchange for an honest review. This does not affect my opinion of the book or the content of my review.
