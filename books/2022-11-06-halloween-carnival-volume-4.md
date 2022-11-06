@@ -11,7 +11,7 @@ date: 2019-08-03T06:00:00.000Z
 <b>Title:</b> Halloween Carnival Volume Four\
 <b>Authors:</b> Kealan Patrick Burke, Ray Garton, Bev Vincent, C. A. Suleiman, Paul Melniczek, Brian James Freeman\
 <b>Series:</b> Halloween Carnival #4\
-<b>Publication Date:</b> October 14, 2017\
+<b>Publication Date:</b> October 24, 2017\
 <b>Publisher:</b> Random House Publishing Group\
 <b>Format:</b> eBook\
 <b>Source:</b> NetGalley\
