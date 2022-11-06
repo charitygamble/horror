@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: The Zombie Stories of H.P. Lovecraft
 description: Review for The Zombie Stories of H.P. Lovecraft
-date: 2019-09-04T06:00:00.000Z
+date: 2019-09-24T06:00:00.000Z
 ---
 <section class="review__info">
 
