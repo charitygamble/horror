@@ -30,6 +30,7 @@ h1 {
 
 h2 {
     font-size: 2.5em;
+    margin-left: .85em;
 }
 
 h3 {
@@ -311,6 +312,10 @@ input[type=checkbox] {
 
 .post h3 {
     margin-left: 1.3em;
+}
+
+.post h2 {
+    margin-left: .85em;
 }
 
 .single__post {
