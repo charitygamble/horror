@@ -6,22 +6,14 @@ date: 2019-10-16T06:00:00.000Z
 ---
 <section class="review__info">
 
-
-
 <img loading="lazy" class="movie__poster" src="/static/images/book/theressomeoneinthehouse.webp" alt="Book Cover for There's Someone Inside Your House by Stephanie Perkins" width="264" height="400" align="left">
 
-<b>Title:</b> There's Someone Inside Your House
-
-<b>Authors:</b> Stephanie Perkins
-
-<b>Publication Date:</b> September 26, 2017
-
-<b>Publisher:</b> Penguin
-
-<b>Format:</b> Hardcover
-
-<b>Source:</b> Public Library
-
+<b>Title:</b> There's Someone Inside Your House\
+<b>Authors:</b> Stephanie Perkins\
+<b>Publication Date:</b> September 26, 2017\
+<b>Publisher:</b> Penguin\
+<b>Format:</b> Hardcover\
+<b>Source:</b> Public Library\
 <b>Rating:</b> &#9733;&#9733;&#9733;&#9733;&#9734;
 
 <p class="review__description"><b>Soon to be a major motion picture coming to Netflix in 2021!</b></p>
@@ -30,11 +22,7 @@ date: 2019-10-16T06:00:00.000Z
 
 <p><b>A New York Times bestseller</b></p>
 
-
-
 <p>It’s been almost a year since Makani Young came to live with her grandmother and she’s still adjusting to her new life in rural Nebraska. Then, one by one, students at her high school begin to die in a series of gruesome murders, each with increasing and grotesque flair.</p>
-
-
 
 <p>As the body count rises and the terror grows closer, can Makani survive the killer’s twisted plan?</p>
 
