@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Halloween Carnival Volume 1
 description: Book Review for Halloween Carnival Volume 1
-date: 2018-09-28T06:00:00.000Z
+date: 2018-09-25T06:00:00.000Z
 ---
 <section class="review__info">
 <img loading="lazy" class="movie__poster" src="/static/images/book/halloweencarnival.webp" alt="Book Cover for Halloween Carnival series by Brian James Freeman" width="278" height="400" align="left">
