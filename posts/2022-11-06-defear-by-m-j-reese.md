@@ -1,0 +1,32 @@
+---
+layout: layouts/post.njk
+title: De'Fear by M J Reese
+description: Review for De'Fear by M J Reese
+date: 2018-08-20T06:00:00.000Z
+---
+<section class="review__info">
+
+<img loading="lazy" class="movie__poster" src="/static/images/book/defear.webp" alt="Book Cover for De'Fear by M.J. Reese" width="266" height="400" align="left">
+
+<b>Title:</b> <i>De'Fear</i>\
+<b>Series:</b> Psychological Thrillers #1\
+<b>Author:</b> M.J. Reese\
+<b>Format:</b> eARC\
+<b>Source:</b> BookSprout\
+<b>Rating:</b> &#9733;&#9733;&#9734;&#9734;&#9734;
+
+<p class="review__description">Horror Thriller Novels</p>
+
+<p>This is a horror story of a man who began to see hallucinations, had so many battles to fight with, killing a king in his sleep, and a lady who was kidnapped by a man, who she doesn't know her plans, but she's not sure if she would make it out alive. If you are considering the shortest and most intriguing horror story, you found yourself one. This is the best story for you .with the right suspense.</p>
+
+</section>
+
+<blockquote>I received a copy of this book free from BookSprout to facilitate my review. All opinions given are 100% my own.</blockquote>
+
+I’m not sure what the author was actually going for, because if he was truly going for a psychological thriller, he missed the mark. There was nothing thrilling or scary about this book. At all. There might have been some psychological things going on, but not a whole lot.
+
+*DE’FEAR* is a collection of two extremely short stories meant to set you on edge. While the second one did leave off on a fairly interesting cliffhanger, I have to say that neither story was particularly grabbing. The book was all of 24 pages on my iPhone’s iBooks, and the book hasn’t even been put on Goodreads as of this post being written.
+
+I found the writing style to be juvenile, which I suppose is to be expected as it appears this is M. J. Reese’s first book and he is self-publishing. This means he is also self-editing which indicates that while he is trying, and I commend him for that, I believe he could benefit from some professional assistance with his writing.
+
+The stories have potential, but sadly they read like the hurriedly jotted down ideas of a writer’s mind that whirls far too fast to keep up with. I believe if M. J. Reese were to sit down and work on just one of those ideas and make it an actual full length novel, he might be able to get his career going. As it is now, I am sad to say that a writer who just needs some guidance may never end up seeing the light of day.
