@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
-title: Cannibal Holocaust - 1980
-description: Movie Review for Cannibal Holocaust - 1980
+title: Cannibal Holocaust (1980)
+description: Movie Review for Cannibal Holocaust (1980)
 date: 2022-10-13T06:00:00.000Z
 ---
 <div class="review__info">
