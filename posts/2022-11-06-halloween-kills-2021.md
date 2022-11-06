@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Halloween Kills (2021)
-description: Movie Review for Halloween Kills (2021)
+description: Review for Halloween Kills (2021)
 date: 2022-10-22T06:00:00.000Z
 ---
 <section class="review__info">
